@@ -28,4 +28,4 @@ Ingressei no universo da programação quando comecei o curso de Sistemas de Inf
  <a href="https://discord.gg/projetobeta" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/ProBeta12/ProBeta12/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/ProBeta12/ProBeta12/blob/output/github-contribution-grid-snake2.svg)
