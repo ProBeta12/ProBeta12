@@ -29,3 +29,4 @@ Ingressei no universo da programação quando comecei o curso de Sistemas de Inf
 </div>
 
 ![snake gif](https://github.com/ProBeta12/ProBeta12/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ProBeta12/ProBeta12/blob/output/github-contribution-grid-snake.svg)
