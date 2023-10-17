@@ -27,4 +27,4 @@ Ingressei no universo da programação quando comecei o curso de Sistemas de Inf
   <a href="https://www.facebook.com/franciscomarconi.vieiranunes" target="_blank"><img src="https://img.shields.io/badge/-facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/projetobeta" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
-
+![snake gif](https://github.com/Probeta12/Probeta12/blob/output/github-contribution-grid-snake-dark.svg)
