@@ -1,4 +1,4 @@
-## Ola (^^)/, Sou Francisco Marconi, Dev junior para Front-End!
+## Ola (^^)/, Sou Francisco Marconi, Dev junior!
 
 Ingressei no universo da programação quando comecei o curso de Sistemas de Informação na universidade. Minha jornada teve início com Python, explorando desafios de programação e até mesmo competindo na SBC. Concentrei-me na criação de lógicas para resolver problemas complexos. Com o tempo, participei de um projeto de front-end na faculdade, trabalhando com PHP, HTML, CSS e Bootstrap. Logo após, explorei o framework Laravel e dei meus primeiros passos no mundo do React, desenvolvendo uma pequena API com Laravel e o front-end em React. Minhas ambições me levaram a um estágio na Compass, onde aprimorei minhas habilidades em front-end. Trabalhei com JavaScript, TypeScript, React e serviços AWS. Minha trajetória é uma busca constante por aprendizado e evolução, e estou animado para enfrentar novos desafios e oportunidades. 
 
